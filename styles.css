@@ -1,0 +1,44 @@
+html {
+    height: 100%
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #45484d; /* Old browsers */
+    background: -moz-linear-gradient(45deg, #45484d 1%, #000000 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #45484d 1%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, #45484d 1%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    overflow: auto;
+}
+
+main {
+    margin: 0 auto;
+    width: 50%;
+}
+
+footer {
+    height: 600px;
+    margin: 0 auto;
+    width: 50%;
+}
+
+input {
+    background: #454B53;
+    color: white;
+    border: none;
+    font-size: 17px;
+    font-weight: bold;
+    height: 17px;
+    margin-top: 5px;
+    padding: 5px;
+    transition: .2s;
+    width: 100%;
+    outline: none;
+}
+
+iframe {
+    display: block;
+}
+
+
