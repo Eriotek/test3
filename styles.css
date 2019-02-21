@@ -41,4 +41,16 @@ iframe {
     display: block;
 }
 
+.react-div {
+    color: white;
+}
+
+.clock {
+    margin: 0 auto;
+    font-size: 40px;
+    text-align: center;
+    font-family: "Gill Sans Ultra Bold Condensed";
+
+}
+
 
